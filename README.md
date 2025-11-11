@@ -2,28 +2,30 @@
 
 **Group Product Manager, Digital Platform @ Secil** · ex-**tb.lx (Daimler Trucks & Buses)** · ex-**Defined.ai** · Founder **LogerMalin.fr**
 
-I design and scale digital platforms that turn data and AI into measurable business results — across industries from heavy manufacturing to mobility and SaaS.
-
-- **Digital transformation @ Secil** → Built a multi-country data platform, 50 % faster access to decision-quality data, embedded a data culture, and linked portfolio outcomes to EBITDA impact.  
-- **Fleet & mobility @ tb.lx/Daimler** → Designed EV-fleet charging-optimisation logic deployed in Europe, North America & Japan.  
-- **AI data products @ Defined.ai** → Delivered multilingual speech-data pipelines powering Fortune 500 conversational-AI systems.  
-- **Entrepreneurial roots @ LogerMalin** → Founded and built a semantic real-estate platform (Azure-based) improving lead-to-sale conversion; selected for Microsoft BizSpark Plus & Scientipole.  
-- **Technical DNA** → Former software engineer at Microsoft, Sky, and EDF, developing large-scale platforms in .NET, C#, Azure, SQL Server.
+I love seeing a good idea become real. Over the past 15+ years I’ve taken on roles from software engineer to startup founder and group product manager, and along the way I’ve learned that the magic happens when business insight, user empathy, and technical craft meet. At **Secil** I build and lead our Digital Platform—developing AI‑enabled products that support decarbonisation, safety, and performance. I mentor product teams to grow in autonomy and embed a product culture across industrial operations. Before that, at **tb.lx (Daimler)**, I helped design charging‑optimisation logic for electric trucks; at **Defined.ai** I delivered multilingual speech‑data pipelines for Fortune‑500 AI systems; and back in Paris I founded **LogerMalin.fr**, a semantic real‑estate platform that enriched property searches long before that was cool.
 
 ---
 
-## 🧭 Focus Areas
-- Digital transformation · Data platforms · AI/automation · Fleet and mobility systems  
-- Product leadership · Scaling organisations · Coaching and mentoring · Product operations  
-- Design thinking · Discovery · Outcome alignment · Financial prioritisation (ROI / EBITDA)
+## Why I’m here
+Because I believe we’re only scratching the surface of what thoughtful product management and modern AI/ML can do together. Digital transformation isn’t just about technology; it’s about changing how people work, decide, and create value. I’ve seen first‑hand how 50 % faster data access and a data‑driven culture change a company’s trajectory, how 20 % energy savings and hours of time reclaimed each month free teams to focus on higher‑impact work, and how a clear product‑operating model can turn a handful of product owners into a thriving organisation. Those experiences fuel my curiosity: What can we build next? How can we apply ML to predict problems before they happen? Which human stories will that unlock?
 
 ---
 
-## 🧠 Values & Approach
-I believe digital transformation succeeds when product teams understand both the technology *and* the economics behind every initiative.  
-My work blends technical depth, design thinking, and financial clarity — helping organisations move from experiments to sustainable, scalable platforms.
+## Interests & focus areas
+- **Product Leadership & Design Thinking** – Developing people, systems, and rituals that empower teams to solve the right problems.
+- **AI & ML Applications** – Exploring how machine learning can drive better decisions, automate drudgery, and open new business models.
+- **Digital Transformation & Data Platforms** – Building unified data layers and operational tools that accelerate progress.
+- **Fleet & Mobility Technology** – Optimising EV charging, utilisation, and operations for modern fleets.
+- **Coaching & Mentorship** – Sharing what I’ve learned to help others grow; learning from the next generation of product builders.
 
 ---
 
-📫 **Connect:** [linkedin.com/in/marcopmorais](https://www.linkedin.com/in/marcopmorais) · marcopaulomorais@gmail.com  
-🌍 **Languages:** Portuguese (native) · French (bilingual) · English (full professional)
+## What’s next on this page
+Right now you’ll find my story and interests. Soon, I plan to use this space to share curated examples of my work—architecture patterns, lightweight demos, and lessons learned at the intersection of product leadership, AI/ML, and digital platforms. Think of it as a journal for exploring how we build better products, and a place to connect with like‑minded builders.
+
+---
+
+## Connect
+I’m always keen to chat with fellow product leaders, AI enthusiasts, and anyone excited about making things that matter. Reach out on [LinkedIn](https://www.linkedin.com/in/marcopmorais) or drop me a note at marcopaulomorais@gmail.com.  
+Portuguese, French, and English welcome.
+
