@@ -26,6 +26,6 @@ Right now you’ll find my story and interests. Soon, I plan to use this space t
 ---
 
 ## Connect
-I’m always keen to chat with fellow product leaders, AI enthusiasts, and anyone excited about making things that matter. Reach out on [LinkedIn](https://www.linkedin.com/in/marcopmorais) or drop me a note at marcopaulomorais@gmail.com.  
+I’m always keen to chat with fellow product leaders, AI enthusiasts, and anyone excited about making things that matter. Reach out on [LinkedIn](https://www.linkedin.com/in/marcopmorais).  
 Portuguese, French, and English welcome.
 
