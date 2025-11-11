@@ -19,16 +19,6 @@ I design and scale digital platforms that turn data and AI into measurable busin
 
 ---
 
-## 🧩 Featured Work (to showcase)
-- **digital-platform-blueprint** — Unified Namespace + data-governance architecture patterns.  
-- **ev-charging-optim-demo** — Sanitised re-implementation of EV charging-logic experiments.  
-- **product-ops-playbooks** — Templates for outcome tracking, KPI cadences, and discovery rituals.  
-- **logermalin-archive** — Founder story, Azure architecture diagrams, lessons learned.
-
-> All repositories share **sanitised patterns**, not proprietary code. They demonstrate approach, structure, and decision-making.
-
----
-
 ## 🧠 Values & Approach
 I believe digital transformation succeeds when product teams understand both the technology *and* the economics behind every initiative.  
 My work blends technical depth, design thinking, and financial clarity — helping organisations move from experiments to sustainable, scalable platforms.
